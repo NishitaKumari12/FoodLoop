@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.sqlite3
+backend/uploads/
+
+# Environment files
+.env
+
+# Node
+node_modules/
+dist/
+
+# Editor and OS
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
